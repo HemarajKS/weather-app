@@ -1,0 +1,16 @@
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 2em;
+}
+
+.searchBar {
+    outline: none;
+    padding: 10px;
+    height: 32px;
+    width: 500px;
+    border-radius: 4em;
+    border: 2px solid var(--color2);
+}
